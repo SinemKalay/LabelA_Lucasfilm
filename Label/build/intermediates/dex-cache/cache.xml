@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\junit-4.12_4f1f595ee9a366d35de2e161d81f10ab1af07aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_a677ff146da5cf5237cb091853cd626a1fc60eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_c5b806b207b9d9b2e1e42dedb4d2ffda8a1bec29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_8b1c3ff7290498173198d62079fa68789f26102f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.1\c8d96f6fd2bcc179c312da33ee670a71188cc60d\httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.1_532f4733c4099f896dfd614a77dc49e80655478c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\okio-1.6.0_a18ed1cd7990fc94afd7263e179af71ee515325e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_ee8ec4b0056b82a1372f3b2973985f96aa853a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_5a58a194fd8156aa88a1d467570690825846aba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\gson-2.7_8415adf5faafa452147d6b3ae7ca72ed7f9c6cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_f5a22d2552e20b0ce904fd12f35cd48dc4cc7dd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support.test-runner-0.5_da70014bd8536ec4e0056f8f98a069230fb2bf6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_59be6ebda870fabca263c76704f3e4223b5ab513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9f4c1d3083a783aca7f7579b2ef94154d46896a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c12569b2dad3b0de7aca61bf61ce849a839377bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_9fff2fe926a9dd2d5252f5040e56a7b6d852ca8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_22654e9250dff3180c4a4c35f79c78e3fff6b070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ebc5a2bcc228eacd3679e15177dc92fbe20a17a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_d10aa0f7b3044485e1627e2d70bc1a3eaf4a462e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_c2ff9741282d9678d0e6cbf26904463936e0949c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_4a75e0de3e4bd91cb928113c589f1a562e24bd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_d3a2f3b3e030c3b94c93686c6b0573a6e56f13f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_f89a6d8fbff5f1bd519bcb24e148767f1900b033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_96c29022aeb68e5b8cd2ae54d1ffe53703938e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\esineka\AndroidStudioProjects\Label\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_7263f671120e26f54f14c30cf3d89fd06849e75d.jar" />
+    </item>
+
+</items>

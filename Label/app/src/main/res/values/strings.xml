@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lucasfilm</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_sort_name">Sort By Name</string>
+    <string name="action_sort_birth">Sort By Birthyear</string>
+</resources>
